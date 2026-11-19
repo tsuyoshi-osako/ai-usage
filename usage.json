@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:05:24+09:00",
+  "updated_at": "2026-11-19T13:35:23+09:00",
   "services": [
     {
       "name": "Muse",
@@ -12,18 +12,8 @@
     },
     {
       "name": "Claude Code",
-      "five_hour": {
-        "used_percent": 2.0,
-        "remaining_percent": 98.0,
-        "resets_at": "2026-11-19T16:59:59+09:00",
-        "resets_in_days": 0
-      },
-      "weekly": {
-        "used_percent": 3.0,
-        "remaining_percent": 97.0,
-        "resets_at": "2026-11-25T17:59:59+09:00",
-        "resets_in_days": 6
-      }
+      "error": "取得できませんでした（HTTP 401）",
+      "stale": true
     },
     {
       "name": "Codex",
@@ -39,7 +29,7 @@
         "resets_at": "2026-11-19T17:31:43+09:00",
         "resets_in_days": 0
       },
-      "snapshot_at": "2026-11-19T13:05:32+09:00"
+      "snapshot_at": "2026-11-19T13:35:30+09:00"
     }
   ]
 }
