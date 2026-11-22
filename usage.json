@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T23:35:10+09:00",
+  "updated_at": "2026-11-23T00:05:14+09:00",
   "services": [
     {
       "name": "Muse",
@@ -7,7 +7,7 @@
         "used_percent": 2.0,
         "remaining_percent": 98.0,
         "resets_at": "2026-11-26T09:54:00+09:00",
-        "resets_in_days": 4
+        "resets_in_days": 3
       }
     },
     {
@@ -22,7 +22,7 @@
         "used_percent": 27.0,
         "remaining_percent": 73.0,
         "resets_at": "2026-11-25T17:59:59+09:00",
-        "resets_in_days": 3
+        "resets_in_days": 2
       }
     },
     {
@@ -37,9 +37,9 @@
         "used_percent": 5.0,
         "remaining_percent": 95.0,
         "resets_at": "2026-11-26T17:35:22+09:00",
-        "resets_in_days": 4
+        "resets_in_days": 3
       },
-      "snapshot_at": "2026-11-22T23:35:19+09:00"
+      "snapshot_at": "2026-11-23T00:05:22+09:00"
     }
   ]
 }
