@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T15:05:14+09:00",
+  "updated_at": "2026-11-24T15:35:10+09:00",
   "services": [
     {
       "name": "Muse",
@@ -13,14 +13,14 @@
     {
       "name": "Claude Code",
       "five_hour": {
-        "used_percent": 46.0,
-        "remaining_percent": 54.0,
+        "used_percent": 52.0,
+        "remaining_percent": 48.0,
         "resets_at": "2026-11-24T17:30:00+09:00",
         "resets_in_days": 0
       },
       "weekly": {
-        "used_percent": 41.0,
-        "remaining_percent": 59.0,
+        "used_percent": 42.0,
+        "remaining_percent": 58.0,
         "resets_at": "2026-11-25T18:00:00+09:00",
         "resets_in_days": 1
       }
@@ -28,18 +28,18 @@
     {
       "name": "Codex",
       "five_hour": {
-        "used_percent": 16.0,
-        "remaining_percent": 84.0,
+        "used_percent": 23.0,
+        "remaining_percent": 77.0,
         "resets_at": "2026-11-24T15:35:29+09:00",
         "resets_in_days": 0
       },
       "weekly": {
-        "used_percent": 9.0,
-        "remaining_percent": 91.0,
+        "used_percent": 10.0,
+        "remaining_percent": 90.0,
         "resets_at": "2026-11-26T17:35:22+09:00",
         "resets_in_days": 2
       },
-      "snapshot_at": "2026-11-24T15:05:22+09:00"
+      "snapshot_at": "2026-11-24T15:35:18+09:00"
     }
   ]
 }
