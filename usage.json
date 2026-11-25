@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26T08:05:09+09:00",
+  "updated_at": "2026-11-26T08:35:19+09:00",
   "services": [
     {
       "name": "Muse",
       "weekly": {
-        "used_percent": 6.0,
-        "remaining_percent": 94.0,
+        "used_percent": 7.0,
+        "remaining_percent": 93.0,
         "resets_at": "2026-11-26T09:54:00+09:00",
         "resets_in_days": 0
       }
@@ -28,7 +28,7 @@
         "resets_at": "2026-11-26T17:35:22+09:00",
         "resets_in_days": 0
       },
-      "snapshot_at": "2026-11-26T08:05:17+09:00"
+      "snapshot_at": "2026-11-26T08:35:26+09:00"
     }
   ]
 }
