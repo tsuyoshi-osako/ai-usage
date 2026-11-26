@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T10:35:13+09:00",
+  "updated_at": "2026-11-26T11:05:13+09:00",
   "services": [
     {
       "name": "Muse",
@@ -25,10 +25,10 @@
       "weekly": {
         "used_percent": 17.0,
         "remaining_percent": 83.0,
-        "resets_at": "2026-11-26T17:35:23+09:00",
+        "resets_at": "2026-11-26T17:35:22+09:00",
         "resets_in_days": 0
       },
-      "snapshot_at": "2026-11-26T10:35:21+09:00"
+      "snapshot_at": "2026-11-26T11:05:21+09:00"
     }
   ]
 }
