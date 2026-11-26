@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T01:05:15+09:00",
+  "updated_at": "2026-11-27T01:35:13+09:00",
   "services": [
     {
       "name": "Muse",
@@ -17,9 +17,9 @@
     {
       "name": "Codex",
       "five_hour": {
-        "used_percent": 2.0,
-        "remaining_percent": 98.0,
-        "resets_at": "2026-11-27T01:35:21+09:00",
+        "used_percent": 0.0,
+        "remaining_percent": 100.0,
+        "resets_at": "2026-11-27T06:35:21+09:00",
         "resets_in_days": 0
       },
       "weekly": {
@@ -28,7 +28,7 @@
         "resets_at": "2026-12-03T17:35:25+09:00",
         "resets_in_days": 6
       },
-      "snapshot_at": "2026-11-27T01:05:23+09:00"
+      "snapshot_at": "2026-11-27T01:35:21+09:00"
     }
   ]
 }
